@@ -1,4 +1,4 @@
-// Tailwind v4 usa este plugin no PostCSS
+// postcss.config.js (ESM, compatível com "type": "module")
 export default {
   plugins: {
     "@tailwindcss/postcss": {},
